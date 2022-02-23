@@ -103,11 +103,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\DigitalSignationLibrary\\DigitalSignationLibrary\\DigitalSignationLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\DigitalSignationLibrary\\Source\\DigitalSignationLibrary\\DigitalSignationLibrary.csproj",
       "projectName": "DocumentSigner",
-      "projectPath": "C:\\Users\\User\\source\\repos\\DigitalSignationLibrary\\DigitalSignationLibrary\\DigitalSignationLibrary.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\DigitalSignationLibrary\\Source\\DigitalSignationLibrary\\DigitalSignationLibrary.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\DigitalSignationLibrary\\DigitalSignationLibrary\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\DigitalSignationLibrary\\Source\\DigitalSignationLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
