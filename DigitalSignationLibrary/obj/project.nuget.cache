@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ugQRHv1zEMyPGhSKiFZ0DyuUtBmlYHwvhTyim9BLaKiZOk3tWhgpwA84bIkYko/vdSTt0jlI3L9fY9QZ97FF2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\DigitalSignationLibrary\\DigitalSignationLibrary\\DigitalSignationLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\system.io.filesystem.primitives\\4.0.1\\system.io.filesystem.primitives.4.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.io.packaging\\4.0.0\\system.io.packaging.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

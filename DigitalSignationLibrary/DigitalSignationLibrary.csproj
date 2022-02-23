@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+	  <PackageId>DocumentSigner</PackageId>
+	  <Version>1.0.0</Version>
+	  <Authors>WingmanColt</Authors>
+	  <Company>https://github.com/WingmanColt</Company>
+	  <Description>
+		  This client library enables digital signing the PDF, DOCX, XML, XLSX, PPTX documents.
+		  Easily can be add as a service. Using is also so simple.
+	  </Description>
+	  <projectUrl>https://github.com/WingmanColt/DigitalSigner</projectUrl>
+	  <iconUrl>https://i.imgur.com/K42Uyes.png</iconUrl>
+	  <requireLicenseAcceptance>false</requireLicenseAcceptance>
+	  <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.IO.Packaging" Version="4.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security" />
+  </ItemGroup>
+
+</Project>

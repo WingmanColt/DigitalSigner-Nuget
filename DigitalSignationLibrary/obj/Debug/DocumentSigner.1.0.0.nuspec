@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DocumentSigner</id>
+    <version>1.0.0</version>
+    <authors>WingmanColt</authors>
+    <description>This client library enables digital signing the PDF, DOCX, XML, XLSX, PPTX documents.
+		  Easily can be add as a service. Using is also so simple.</description>
+    <dependencies>
+      <group targetFramework=".NETFramework4.8">
+        <dependency id="System.IO.Packaging" version="4.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.IO.FileSystem.Primitives" targetFramework=".NETFramework4.8" />
+      <frameworkAssembly assemblyName="System.Security" targetFramework=".NETFramework4.8" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="C:\Users\User\source\repos\DigitalSignationLibrary\DigitalSignationLibrary\bin\Debug\net48\DigitalSignationLibrary.dll" target="lib\net48\DigitalSignationLibrary.dll" />
+  </files>
+</package>

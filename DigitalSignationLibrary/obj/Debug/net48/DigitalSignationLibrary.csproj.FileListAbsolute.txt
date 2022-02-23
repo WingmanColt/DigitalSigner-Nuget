@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\DigitalSignationLibrary\DigitalSignationLibrary\obj\Debug\net48\DigitalSignationLibrary.Properties.Resources.resources
+C:\Users\User\source\repos\DigitalSignationLibrary\DigitalSignationLibrary\obj\Debug\net48\DigitalSignationLibrary.csproj.GenerateResource.cache
+C:\Users\User\source\repos\DigitalSignationLibrary\DigitalSignationLibrary\obj\Debug\net48\DigitalSignationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DigitalSignationLibrary\DigitalSignationLibrary\obj\Debug\net48\DigitalSignationLibrary.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DigitalSignationLibrary\DigitalSignationLibrary\obj\Debug\net48\DigitalSignationLibrary.AssemblyInfo.cs
+C:\Users\User\source\repos\DigitalSignationLibrary\DigitalSignationLibrary\obj\Debug\net48\DigitalSignationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DigitalSignationLibrary\DigitalSignationLibrary\bin\Debug\net48\DigitalSignationLibrary.dll
+C:\Users\User\source\repos\DigitalSignationLibrary\DigitalSignationLibrary\bin\Debug\net48\DigitalSignationLibrary.pdb
+C:\Users\User\source\repos\DigitalSignationLibrary\DigitalSignationLibrary\bin\Debug\net48\System.IO.Packaging.dll
+C:\Users\User\source\repos\DigitalSignationLibrary\DigitalSignationLibrary\bin\Debug\net48\itextsharp.dll
+C:\Users\User\source\repos\DigitalSignationLibrary\DigitalSignationLibrary\obj\Debug\net48\DigitalSignationLibrary.csproj.CopyComplete
+C:\Users\User\source\repos\DigitalSignationLibrary\DigitalSignationLibrary\obj\Debug\net48\DigitalSignationLibrary.dll
+C:\Users\User\source\repos\DigitalSignationLibrary\DigitalSignationLibrary\obj\Debug\net48\DigitalSignationLibrary.pdb
+C:\Users\User\source\repos\DigitalSignationLibrary\DigitalSignationLibrary\obj\Debug\net48\DigitalSignationLibrary.csproj.AssemblyReference.cache
