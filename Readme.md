@@ -4,7 +4,7 @@
 2. Setup a service for digital sign in Startup.cs / Program.cs for newer versions.
 - builder.Services.AddTransient<ISignService, SignService>();
 
-3. Registering service in controller and using.
+3. Register service in controller and usage.
 
     public interface ISignService
     {
