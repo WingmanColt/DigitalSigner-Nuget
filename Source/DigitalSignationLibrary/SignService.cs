@@ -4,13 +4,13 @@ using System.Security.Cryptography.X509Certificates;
 
 namespace DigitalSignationLibrary
 {
-    public interface ICoreService
+    public interface ISignService
     {
         int SignDocumentByUpload(string loadPath, string savePath, string certPath, string Password, StoreName store, StoreLocation location);
         int SignDocumentStored(string loadPath, string savePath, StoreName store, StoreLocation location);
     }
 
-    public class CoreService : ICoreService
+    public class SignService : ISignService
     {
 
         public int SignDocumentByUpload(string loadPath, string savePath, string certPath, string Password, StoreName store, StoreLocation location)
